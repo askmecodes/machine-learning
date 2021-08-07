@@ -48,6 +48,10 @@
 - What is difference between Ridge, Lasso and Elastic Net?
 - Can you apply normal gradient descent in case of lasso?
 
+### Decision Tree
+
+
+
 
 
 
