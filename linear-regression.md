@@ -4,26 +4,33 @@
 
  **What is Linear Regression?**
     
-    Linear regression is the next step up after correlation. It is used when we want to predict the value of a variable based on the value of another variable. The variable we want to predict is called the dependent variable (or sometimes, the outcome variable).
+    Linear regression is the next step up after correlation. It is used when we want to predict the value of a variable
+    based on the value of another variable. The variable we want to predict is called the dependent variable (or sometimes,
+    the outcome variable).
     
    
     
   **How do you calculate simple linear regression?**
     
-    For the equation of the form $Y= \beta_{0} + \beta_{1} X$, where $Y$ is the dependent variable (that's the variable that goes on the $Y$ axis), $X$ is the independent variable (i.e. it is plotted on the $X$ axis), $\beta_{1}$ is the slope of the line and a is the y-intercept.
+    For the equation of the form $Y= \beta_{0} + \beta_{1} X$, where $Y$ is the dependent variable (that's the variable that goes
+    on the $Y$ axis), $X$ is the independent variable (i.e. it is plotted on the $X$ axis), $\beta_{1}$ is the slope of 
+    the line and a is the y-intercept.
     
    
     
     
-    - What is linear and non linear regression?
+   **What is linear and non linear regression?**
     
-    A linear regression equation simply sums the terms. While the model must be linear in the parameters. you can raise an independent variable by an exponent to fit a curve. For instance, you can include a squared or cubed term. Nonlinear regression models are anything that doesn't follow this one form.
+    A linear regression equation simply sums the terms. While the model must be linear in the parameters. You can raise an
+    independent variable by an exponent to fit a curve. For instance, you can include a squared or cubed term. Nonlinear 
+    regression models are anything that doesn't follow this one form.
     
     
     
-    - What is the difference between regression and correlation?
+   **What is the difference between regression and correlation?**
     
-    The difference between these two statistical measurements is that correlation measures the degree of a relationship between two variables (x and y), whereas regression is how one variable affects another.
+    The difference between these two statistical measurements is that correlation measures the degree of a relationship between
+    two variables (x and y), whereas regression is how one variable affects another.
     
     Simple Linear regression can be represented as:
     
