@@ -35,6 +35,18 @@
 - How do you apply gradient descent in case of Ridge Regression?
 - What happens to the regression coefficients (weights) when you increase $\alpha$ in Ridge regression?
 - Why is it called ridge regression?
+- What are bias and variance terms in Ridge regression?
+- Why does ridge regression reduce variance?
+- What is penalty in ridge regression?
+- How do you pick a lambda in Ridge Regression?
+- Why does the lasso give zero coefficients?
+- How does Lasso regression work?
+- Is elastic net better than Lasso?
+- Is Lasso regression convex?
+- What is adaptive lasso?
+- What is elastic net in machine learning?
+- What is difference between Ridge, Lasso and Elastic Net?
+- Can you apply normal gradient descent in case of lasso?
 
 
 
