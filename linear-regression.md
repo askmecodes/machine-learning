@@ -2,13 +2,13 @@
 
 
 
-    - What is Linear Regression?
+ **What is Linear Regression?**
     
     Linear regression is the next step up after correlation. It is used when we want to predict the value of a variable based on the value of another variable. The variable we want to predict is called the dependent variable (or sometimes, the outcome variable).
     
    
     
-    - How do you calculate simple linear regression?
+  **How do you calculate simple linear regression?**
     
     For the equation of the form $Y= \beta_{0} + \beta_{1} X$, where $Y$ is the dependent variable (that's the variable that goes on the $Y$ axis), $X$ is the independent variable (i.e. it is plotted on the $X$ axis), $\beta_{1}$ is the slope of the line and a is the y-intercept.
     
