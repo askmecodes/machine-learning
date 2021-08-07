@@ -4,7 +4,8 @@
 - What is regression tree in machine learning?
 - What is Gini index decision tree?
 - What is Gini index decision tree?
- \begin{center}
+
+\begin{center}
     \begin{tabular}{ |c|c|c|c|c| } 
     \hline
     index & color & size & height & label \\ 
@@ -30,7 +31,7 @@
     10 & green & 1 & 4 & B \\ 
     \hline
     \end{tabular}
-    \end{center}
+ \end{center}
     
  - What is entropy in decision tree?
  - What is difference between Gini Index and Entropy?
