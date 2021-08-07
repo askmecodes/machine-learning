@@ -12,8 +12,8 @@
     
   **How do you calculate simple linear regression?**
     
-    For the equation of the form $Y= \beta_{0} + \beta_{1} X$, where $Y$ is the dependent variable (that's the variable that goes
-    on the $Y$ axis), $X$ is the independent variable (i.e. it is plotted on the $X$ axis), $\beta_{1}$ is the slope of 
+    For the equation of the form $`Y= \beta_{0} + \beta_{1} X`$, where $`Y`$ is the dependent variable (that's the variable that goes
+    on the $`Y`$ axis), $`X`$ is the independent variable (i.e. it is plotted on the $`X`$ axis), $\beta_{1}$ is the slope of 
     the line and a is the y-intercept.
     
    
