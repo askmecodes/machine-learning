@@ -1,5 +1,39 @@
 # Machine Learning
 
+- What is Machine Learning?
+- What is predictor?
+- What is estimator in machine learning?
+- What is inference?
+- What is a no free lunch theorem?
+- What are generative and discriminative algorithms?
+- What are generative algorithms?
+- Is SVM generative or discriminative?
+- Is naive Bayes generative or discriminative?
+- Is K means generative or discriminative?
+- Why LDA is generative model?
+- Is Perceptron generative or discriminative?
+- Is CNN generative or discriminative?
+- Is RNN generative model?
+- What is bias-variance trade off?
+- How do you handle bias variance trade offs?
+- Is Overfitting high variance?
+- How do you fix high bias?
+- Is a high variance good or bad?
+- What is likelyhood function?
+- What does maximum likelihood mean?
+- Why do we use maximum likelihood estimation?
+- Why are they called Hyperparameters?
+- What is Underfitting and Overfitting?
+- What do you do with train, validation and test set in machine learning?
+- What is parameter tuning in machine learning?
+- What is online learning?
+- What is feature importance?
+- What is early stopping? Why is it important?
+- How to prevent overfitting?
+- What is Overfitting and Underfitting, and How to Combat Them?
+
+
+
 ## Linear Regression
 
 - What is linear and non linear regression?
@@ -47,6 +81,9 @@
 - What is elastic net in machine learning?
 - What is difference between Ridge, Lasso and Elastic Net?
 - Can you apply normal gradient descent in case of lasso?
+
+### Logistic Regression
+- 
 
 ### Decision Tree
 
