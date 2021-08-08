@@ -89,7 +89,7 @@
 - Why are there no error terms in logistic regression?
 - Define Logistic regression equation.
 - What is cost function in Logistic Regression? How do you update the weights in Gradient Descent?
-- 
+
 
 ### Decision Tree
 
@@ -119,6 +119,28 @@
 - Why decision tree is mostly a binary tree?
 
 ### Support Vector Machine (SVM)
+- What is Support Vector Machine (SVM)?
+- Is SVM a neural network?
+- Which is better KNN or SVM?
+- What is a kernel in SVM? Why do we use kernels in SVM?
+- What is sigmoid kernel in SVM?
+- Describe linear SVM equation.
+- Setup the Optimization problem for Linear SVM (Hard Margin)
+- Setup the Optimization problem for nonlinear SVM (Soft Margin)
+- What is the C parameter in SVM?
+- What if we set c parameter to infinite in SVM?
+- What is lambda in SVM?
+- What is SVM RBF?
+- What is the purpose of the kernel trick?
+- What is regularization parameter in SVM?
+- What is the cost function in SVM?
+- How do you stop Overfitting in SVM?
+- What are Hyperparameters in SVM?
+- What is Alpha in SVM?
+- How is SVM trained?
+- What is the loss function that linear SVM optimizes?
+- How do I get support vectors in SVM?
+- Is decision tree a regression?
 
 
 ### Ensamble
