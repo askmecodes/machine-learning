@@ -1,5 +1,5 @@
 # Machine Learning
-
+------
 - What is Machine Learning?
 - What is predictor?
 - What is estimator in machine learning?
@@ -35,7 +35,7 @@
 
 
 ## Linear Regression
-
+--------
 - What is linear and non linear regression?
 - How do you calculate simple linear regression?
 - What is linear and non linear regression?
@@ -83,6 +83,7 @@
 - Can you apply normal gradient descent in case of lasso?
 
 ### Logistic Regression
+---------
 - Why is logistic regression linear?
 - Does logistic regression need scaling?
 - Why are there no error terms in logistic regression?
@@ -91,7 +92,7 @@
 - 
 
 ### Decision Tree
-
+-----------
 - What is decision tree and could you give an example?
 - What is regression tree in machine learning?
 - What is Gini index decision tree?
@@ -121,6 +122,7 @@
 
 
 ### Ensamble
+----------
 - What is ensemble method? What is bagging? What is boosting?
 - What is random forest? What is random in random forest?
 - What is XGBoost?
