@@ -83,6 +83,11 @@
 - Can you apply normal gradient descent in case of lasso?
 
 ### Logistic Regression
+- Why is logistic regression linear?
+- Does logistic regression need scaling?
+- Why are there no error terms in logistic regression?
+- Define Logistic regression equation.
+- What is cost function in Logistic Regression? How do you update the weights in Gradient Descent?
 - 
 
 ### Decision Tree
@@ -111,7 +116,32 @@
 - What are advantage and dis advantage of Decision Tree?
 - What are advantage and dis advantage of CART?
 - Why decision tree is mostly a binary tree?
- 
+
+### Support Vector Machine (SVM)
+
+
+### Ensamble
+- What is ensemble method? What is bagging? What is boosting?
+- What is random forest? What is random in random forest?
+- What is XGBoost?
+- What is XGBoost regression?
+- Why is XGBoost so popular?
+- Why is XGBoost faster than GBM?
+- Is XGBoost better than random forest?
+- Is XGBoost deep learning?
+- Is XGBoost a random forest?
+- Can XGBoost be used for classification?
+- How does distributed XGBoost work?
+- How does XGBoost handle missing values?
+- Why does XGBoost win?
+- What is the difference between XGBoost and LightGBM?
+- Does XGBoost handle class imbalance?
+- Can XGBoost handle categorical variables?
+- What is LightGBM used for?
+- What is Gamma in XGBoost?
+- Does XGBoost need scaling?
+- Does XGBoost require hot encoding?
+- What are the unique features of XGBOOST?
     
     
     
